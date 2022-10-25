@@ -3,6 +3,8 @@ const app = express();
 const cors = require('cors');
 app.use(cors());
 
+const courses = require('./data/courses.json')
+
 const port = process.env.PORT || 5000;
 
 app.listen(port, () => {
@@ -11,4 +13,8 @@ app.listen(port, () => {
 
 app.get('/', (req, res) => {
     res.send('Eije api kaj kortace')
+})
+
+app.get('/courses', (req, res) => {
+    res.send(courses);
 })
