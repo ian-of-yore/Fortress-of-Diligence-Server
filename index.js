@@ -8,11 +8,11 @@ const courses = require('./data/courses.json')
 const port = process.env.PORT || 5000;
 
 app.listen(port, () => {
-    console.log(`Eije ${port} port e sona jaitece`)
+    console.log(`Listening on Port ${port}`)
 })
 
 app.get('/', (req, res) => {
-    res.send('Eije api kaj kortace')
+    res.send('API is working')
 })
 
 app.get('/courses', (req, res) => {
