@@ -1,6 +1,7 @@
 [
     {
-        "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+        "details_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+        "course_id": "01",
         "info": {
             "students": "24,146",
             "duration": "1h 55m",
@@ -15,7 +16,8 @@
         "details": "For me, being able to create my own websites with HTML and CSS has been empowering. Liberating. And a way of creating and expressing myself. It's also given me opportunities to freelance, work for agencies, work at startups, and run my own studio. During the class you'll be creating a website for your favourite cartoon hero. I'll share my insights and best practices for planning and creating a simple one-page website. We'll cover browsers, code editors, planning, how to back up your code, and how to publish your website. You'll see that it's not that hard or scary to create a website! Whether you're an absolute novice or have dabbled in some web design and development before, by the end of this class you'll know how to hand-code basic websites and have a solid foundation to add further web-related learning to. Also, your friends will be jealous and your mom will be super proud. And you'll feel like Neo from The Matrix."
     },
     {
-        "_id": "0282e0e58a5c404fbd15261f11c2ab6b",
+        "details_id": "0282e0e58a5c404fbd15261f11c2ab6b",
+        "course_id": "02",
         "info": {
             "students": "12,681",
             "duration": "16h 47m",
@@ -30,7 +32,8 @@
         "details": "Hi there, my name is Daniel Scott and together we’re going to learn how to build professional responsive web sites. which look good on mobiles, tablets and desktop screens. We cover everything you need to build your first website. From creating your first page through to uploading your website to the internet. We’ll use the world’s most popular (and free) web design tool called Visual Studio Code. There are exercise files you can download and then work along with me. At the end of each video I have a downloadable version of where we are in the process so that you can compare your project with mine. This will enable you to see easily where you might have a problem. We will delve into all the good stuff such as how to create your very own mobile burger menu from scratch learning some basic JavaScript and jQuery. "
     },
     {
-        "_id": "f69a695f037cd9484cecaea37ca71011",
+        "details_id": "f69a695f037cd9484cecaea37ca71011",
+        "course_id": "03",
         "info": {
             "students": "17,117",
             "duration": "5h 36m",
@@ -45,7 +48,8 @@
         "details": "Welcome to Full Stack Web Development for Beginners! Hello, My name is Chris and I am a Web Developer from the UK. I am an experienced trainer leading web development bootcamps and also teaching online courses. My main areas of interest are Vue.js, WordPress, Shopify, Javascript, eCommerce, and business. I am passionate about what I do and about teaching others. Whatever your reason for learning to build websites you have made an excellent career choice. My personal motivation was to become my own boss and have more freedom and flexibility in my life. I also enjoy the technical challenge it provides and the way it constantly evolves. I built my first website back in 1999 and I have watched the web evolve into what it is today. "
     },
     {
-        "_id": "f69a695f037cd9484cecaea37ca71012",
+        "details_id": "f69a695f037cd9484cecaea37ca71012",
+        "course_id": "04",
         "info": {
             "students": "20,460",
             "duration": "2h 50m",
@@ -60,7 +64,8 @@
         "details": "So you want to become a web developer? Or least, want to know how the web works? I don’t blame you. Web development is an in-demand skill that allows you work from anywhere and earn a great living.Web development is what I learned back in 2015 that has allowed me to travel the world and work remotely for the last two years. In this class, I’ll teach you all the basics that I think you need to know before choosing your long-term learning path in web development. After taking this course, you will understand how the web works and how you can take part in building it. My goal for this class is that, by the end, you will have a broad understanding of web development and become clear of how you want to use this important skill of web development in your professional career or for personal use. "
     },
     {
-        "_id": "11468ed61aee84de492a8b04158a22f9",
+        "details_id": "11468ed61aee84de492a8b04158a22f9",
+        "course_id": "05",
         "info": {
             "students": "866",
             "duration": "3h 37m",
@@ -75,7 +80,8 @@
         "details": "Hello everyone, You have some skills and you want to share it with your friends or with the whole world. And you want to share it in your own platform so that they can visit it and enjoy what you are sharing or even you can make some paid stuff, but the problem is that you don't have any experience in Programmation so this is the course for you, you can build your own platform and for free without any knowledge and faster than you think. "
     },
     {
-        "_id": "11468ed61aee84de492a8b04158a22f0",
+        "details_id": "11468ed61aee84de492a8b04158a22f0",
+        "course_id": "06",
         "info": {
             "students": "29,411",
             "duration": "8h 26m",
